@@ -75,12 +75,14 @@
 
 ## My Recent GitHub History:
 <details>
-  <summary>Show More...</summary>
+  <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 </details>
+
 
 
 [website]: https://Larrychiem.Engineer
