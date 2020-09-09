@@ -81,7 +81,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="KFChinese's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KFChinese&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="left" alt="KFChinese's Github Stats" src="https://github-readme-stats.kfchinese.vercel.app/api?username=KFChinese&show_icons=true&hide_border=true&theme=tokyonight" />
 
 </details>
 
