@@ -3,8 +3,6 @@
 
 ## My Name is Larry and also aka: [KFChinese][website].
 
-
-
 ---
 
 ### I'm Currently a Student in California State University, Monterey Bay and Aspiring to Become a Software Engineer in The Bay Area! 
