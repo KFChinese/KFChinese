@@ -60,11 +60,18 @@
 <img align="left" alt="KFChinese's Github Stats" src="https://github-readme-stats.kfchinese.vercel.app/api?username=KFChinese&show_icons=true&hide_border=true&theme=tokyonight" />
 
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
+---
 
 ## My Recent GitHub History 
 <details>
-  <summary></summary>
+  <summary>Show More...</summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
