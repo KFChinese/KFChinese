@@ -48,22 +48,26 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
 
 <br />
-<br />
+
 
 ---
 
+
+
+
+## :zap: My Current GitHub Stats
+
+<img align="left" alt="KFChinese's Github Stats" src="https://github-readme-stats.kfchinese.vercel.app/api?username=KFChinese&show_icons=true&hide_border=true&theme=tokyonight" />
+
+<br />
+
+
+## My Recent GitHub History 
 <details>
-  <summary>:zap: My Recent Github Activity</summary>
+  <summary></summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: My Github Stats</summary>
-
-  <img align="left" alt="KFChinese's Github Stats" src="https://github-readme-stats.kfchinese.vercel.app/api?username=KFChinese&show_icons=true&hide_border=true&theme=tokyonight" />
 
 </details>
 
