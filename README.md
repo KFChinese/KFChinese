@@ -18,7 +18,7 @@
 ## What I am Currently Listening to on Spotify: 🎧
 [<img src="https://novatorem.kfchinese.vercel.app/api/spotify" alt="KFChinese Spotify Playing" width="350" />](https://open.spotify.com/user/1237943609)
 
-
+---
 
 ## Connect With Me On:
 
@@ -55,7 +55,7 @@
 
 
 
-## :zap: My Current GitHub Stats
+## :zap: My Current GitHub Stats:
 
 <img align="left" alt="KFChinese's Github Stats" src="https://github-readme-stats.kfchinese.vercel.app/api?username=KFChinese&show_icons=true&hide_border=true&theme=tokyonight" />
 
@@ -73,7 +73,7 @@
 
 ---
 
-## My Recent GitHub History 
+## My Recent GitHub History:
 <details>
   <summary>Show More...</summary>
   
