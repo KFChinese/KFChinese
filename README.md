@@ -1,5 +1,5 @@
 
-# Welcome to my Github!  👋
+# Welcome to my GitHub!  👋
 
 ## My Name is Larry Chiem, *(Or Also Known As: [KFChinese][website]).*
 
