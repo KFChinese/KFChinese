@@ -16,12 +16,11 @@
 - ⚡ Fun fact: I love Cars and Photography 📸🏁
 
 ## Currently Playing on Spotify: 🎧
-[<img src="https://novatorem.kfchinese.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1237943609)
+[<img src="https://now-playing-kfchinese.vercel.app/api/spotify-playing" alt="KFChinese Spotify Playing" width="350" />](https://open.spotify.com/user/1237943609)
+
+
 
 ## Connect With Me On:
-
-
-
 
 
 [<img align="left" alt="larrychiem.engineer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -31,7 +30,7 @@
 <br />
 <br />
 
-[![Website](https://img.shields.io/website?label=My%20webite%20is%20currently&style=for-the-badge&url=https%3A%2F%2Flarrychiem.engineer)](https://larrychiem.engineer)] 
+[![Website](https://img.shields.io/website?label=My%20webite%20is%20currently&style=for-the-badge&url=https%3A%2F%2Flarrychiem.engineer)](https://larrychiem.engineer) 
 
 ---
 
@@ -50,7 +49,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" href ="https://larrychiem.engineer" />
 
 <br />
 <br />
@@ -61,7 +60,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://blog.larrychiem.engineer)
 
 ---
 
