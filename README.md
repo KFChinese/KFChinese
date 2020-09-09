@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I love Cars and Photography 📸🏁
 
 ## Currently Playing on Spotify: 🎧
-[<img src="https://now-playing-kfchinese.vercel.app/api/spotify-playing" alt="KFChinese Spotify Playing" width="350" />](https://open.spotify.com/user/1237943609)
+[<img src="https://now-playing-kfchinese.vercel.app/api/spotify" alt="KFChinese Spotify Playing" width="350" />](https://open.spotify.com/user/1237943609)
 
 
 
