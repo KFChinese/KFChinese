@@ -76,6 +76,12 @@
 ## My Recent GitHub History:
   
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#3](https://github.com//KFChinese/KFChinese/issues/3) in [KFChinese/KFChinese](https://github.com//KFChinese/KFChinese)
+2. ❗️ Closed issue [#1](https://github.com//KFChinese/KFChinese/issues/1) in [KFChinese/KFChinese](https://github.com//KFChinese/KFChinese)
+3. ❗️ Closed issue [#2](https://github.com//KFChinese/KFChinese/issues/2) in [KFChinese/KFChinese](https://github.com//KFChinese/KFChinese)
+4. ❗️ Opened issue [#2](https://github.com//KFChinese/KFChinese/issues/2) in [KFChinese/KFChinese](https://github.com//KFChinese/KFChinese)
+5. ❗️ Opened issue [#1](https://github.com//KFChinese/KFChinese/issues/1) in [KFChinese/KFChinese](https://github.com//KFChinese/KFChinese)
+<!--END_SECTION:activity-->
 
 
 
