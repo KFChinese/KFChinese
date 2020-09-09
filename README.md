@@ -11,7 +11,7 @@
 
 ---
 
-## The Plans:
+## The Plans Overall:
 
 - 🤖 I’m Currently Learning Everything 😆
 - 🥅 My Goals for 2020: Publish More Projects to my Github! 
