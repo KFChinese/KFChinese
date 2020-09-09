@@ -1,11 +1,11 @@
 
 # Welcome to my Github!  👋
 
-## My Name is Larry Chiem, Or Also Known As: [KFChinese][website].
+### My Name is Larry Chiem, *(Or Also Known As: [KFChinese][website]).*
 
 ---
 
-### I'm Currently a Student in California State University, Monterey Bay and Aspiring to Become a Software Engineer in The Bay Area! 
+#### I'm Currently a Student in California State University, Monterey Bay and Aspiring to Become a Software Engineer in The Bay Area! 
 
 ---
 
