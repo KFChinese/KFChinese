@@ -79,11 +79,11 @@
   <summary>Show More...</summary>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/KFChinese/The-Year-Up-Applcation/issues/1) in [KFChinese/The-Year-Up-Applcation](https://github.com/KFChinese/The-Year-Up-Applcation)
-2. ❗️ Opened issue [#2](https://github.com/KFChinese/ILP-Portfolio/issues/2) in [KFChinese/ILP-Portfolio](https://github.com/KFChinese/ILP-Portfolio)
-3. ❗️ Opened issue [#1](https://github.com/KFChinese/ILP-Portfolio/issues/1) in [KFChinese/ILP-Portfolio](https://github.com/KFChinese/ILP-Portfolio)
-4. ❗️ Opened issue [#1](https://github.com/KFChinese/The-Year-Up-Applcation/issues/1) in [KFChinese/The-Year-Up-Applcation](https://github.com/KFChinese/The-Year-Up-Applcation)
-5. 🗣 Commented on [#3](https://github.com/KFChinese/KFChinese/issues/3) in [KFChinese/KFChinese](https://github.com/KFChinese/KFChinese)
+1. ❗️ Opened issue [#1](https://github.com/KFChinese/Larrychiem.engineer/issues/1) in [KFChinese/Larrychiem.engineer](https://github.com/KFChinese/Larrychiem.engineer)
+2. 🗣 Commented on [#1](https://github.com/KFChinese/The-Year-Up-Applcation/issues/1) in [KFChinese/The-Year-Up-Applcation](https://github.com/KFChinese/The-Year-Up-Applcation)
+3. ❗️ Opened issue [#2](https://github.com/KFChinese/ILP-Portfolio/issues/2) in [KFChinese/ILP-Portfolio](https://github.com/KFChinese/ILP-Portfolio)
+4. ❗️ Opened issue [#1](https://github.com/KFChinese/ILP-Portfolio/issues/1) in [KFChinese/ILP-Portfolio](https://github.com/KFChinese/ILP-Portfolio)
+5. ❗️ Opened issue [#1](https://github.com/KFChinese/The-Year-Up-Applcation/issues/1) in [KFChinese/The-Year-Up-Applcation](https://github.com/KFChinese/The-Year-Up-Applcation)
 <!--END_SECTION:activity-->
 
 
