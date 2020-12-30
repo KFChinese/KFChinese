@@ -23,10 +23,13 @@
 ## Connect With Me On:
 
 
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/larry-chiem/)
+ [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/larry-chiem/)
 
 
 [![Website](https://img.shields.io/website?label=My%20webite&style=for-the-badge&url=https%3A%2F%2Flarrychiem.engineer)](https://larrychiem.engineer) 
+
+[<img src="https://www.codewars.com/users/KFChinese/badges/large" alt="KFChinese Spotify Playing" width="350" />](https://www.codewars.com/users/KFChinese)
+
 
 ---
 
