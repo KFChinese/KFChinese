@@ -11,9 +11,9 @@
 
 ## My Plans Overall:
 
-- 🤖 Learning & Development: I’m Currently Learning Everything 😆
-- 🥅 My Goals for 2021: Earning a Software Engineering Internship 💯
-- ⚡ Fun facts: I love Cars and Cinematography 🔰🎥
+- 🤖  Learning & Development: I’m Currently Learning Everything 😆
+- 🥅  My Goals for 2021: Earning a Software Engineering Internship 💯
+- ⚡ Fun facts: I love Cars and Cinematography 🔰 🎥
 ---
 ## What I am Currently Listening to on Spotify: 🎧
 [<img src="https://novatorem.kfchinese.vercel.app/api/spotify" alt="KFChinese Spotify Playing" width="350" />](https://open.spotify.com/user/1237943609)
