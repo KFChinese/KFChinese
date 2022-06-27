@@ -28,7 +28,11 @@
 
 [![Website](https://img.shields.io/website?label=My%20webite&style=for-the-badge&url=https%3A%2F%2Flarrychiem.engineer)](https://larrychiem.engineer) 
 
+---
+## Current Coding Stats:
 [<img src="https://www.codewars.com/users/KFChinese/badges/large" alt="KFChinese Spotify Playing" width="350" />](https://www.codewars.com/users/KFChinese)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/KFChinese?theme=dark&font=Gluten&ext=activity)
 
 
 ---
