@@ -3,6 +3,7 @@
 
 ## My Name is Larry Chiem, *(Or Also Known As: [KFChinese][website]).*
 
+
 ---
 
 ### I'm Currently a Student in California State University, Monterey Bay and Aspiring to Become a Software Engineer in The Bay Area! 
@@ -28,6 +29,7 @@
 
 [![Website](https://img.shields.io/website?label=My%20webite&style=for-the-badge&url=https%3A%2F%2Flarrychiem.engineer)](https://larrychiem.engineer) 
 
+![](https://komarev.com/ghpvc/?username=kfchinese&color=blue)
 ---
 ## Current Coding Stats:
 [<img src="https://www.codewars.com/users/KFChinese/badges/large" alt="KFChinese Spotify Playing" width="350" />](https://www.codewars.com/users/KFChinese)
