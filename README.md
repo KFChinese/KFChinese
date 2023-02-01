@@ -9,6 +9,12 @@
 ### I'm a Spring 23' Graduate in California State University, Monterey Bay and Aspiring to Become a Software Engineer in The Bay Area! 
 
 ---
+## What I am Currently Listening to on Spotify: 🎧
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem-kfchinese.vercel.app/api/spotify?background_color=0d1117&border_color=64bdec)](https://open.spotify.com/user/1237943609)
+</div>
+
+---
 
 ## My Plans Overall:
 
