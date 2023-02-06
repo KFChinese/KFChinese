@@ -10,11 +10,24 @@
 
 ---
 
-## My Plans Overall:
+## My Plans Overall 💯:
 
 - 🤖  Learning & Development: I’m Currently Learning Everything 😆
 - 🥅  My Goals for 2023: Becoming a Software Engineer 💯
 - ⚡ Fun facts: I love Cars and Cinematography 🔰 🎥
+
+---
+
+
+## Connect With Me On 🔗:
+
+
+ [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/larry-chiem/)
+
+
+[![Website](https://img.shields.io/website?label=My%20webite&style=for-the-badge&url=https%3A%2F%2Flarrychiem.engineer)](https://larrychiem.engineer) 
+
+![](https://komarev.com/ghpvc/?username=kfchinese&color=blue)
 
 ---
 
@@ -24,18 +37,7 @@
 </div>
 
 ---
-
-## Connect With Me On:
-
-
- [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/larry-chiem/)
-
-
-[![Website](https://img.shields.io/website?label=My%20webite&style=for-the-badge&url=https%3A%2F%2Flarrychiem.engineer)](https://larrychiem.engineer) 
-
-![](https://komarev.com/ghpvc/?username=kfchinese&color=blue)
----
-## Current Coding Stats:
+## Current Coding Stats ⚡️:
 [<img src="https://www.codewars.com/users/KFChinese/badges/large" alt="KFChinese Spotify Playing" width="350" />](https://www.codewars.com/users/KFChinese)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/KFChinese?theme=dark&font=Gluten&ext=activity)
@@ -43,7 +45,7 @@
 
 ---
 
-## Languages and Tools:
+## Languages and Tools 🛠:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> ][website]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
@@ -67,28 +69,19 @@
 
 ---
 
+## My Current GitHub Stats 📈:
 
+![](https://github-readme-stats.kfchinese.vercel.app/api?username=KFChinese&show_icons=true&hide_border=true&theme=tokyonight)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kfchinese&theme=dark&hide_border=true&theme=tokyonight)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kfchinese&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
-## My Current GitHub Stats:
-
-<img align="left" alt="KFChinese's Github Stats" src="https://github-readme-stats.kfchinese.vercel.app/api?username=KFChinese&show_icons=true&hide_border=true&theme=tokyonight" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
+## GitHub Trophies 🥇:
+![](https://github-profile-trophy.vercel.app/?username=kfchinese&theme=tokyonight)
 
 
 ---
 
-## My Recent GitHub History:
+## My Recent GitHub History ⏰:
   
 <details>
   <summary>Show More...</summary>
