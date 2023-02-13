@@ -41,7 +41,8 @@
 [<img src="https://www.codewars.com/users/KFChinese/badges/large" alt="KFChinese Spotify Playing" width="350" />](https://www.codewars.com/users/KFChinese)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/KFChinese?theme=dark&font=Gluten&ext=activity)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
