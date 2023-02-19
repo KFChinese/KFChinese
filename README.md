@@ -12,7 +12,7 @@
 
 ## My Plans Overall 💯:
 
-- 🤖  Learning & Development: I’m Currently Learning Everything 😆
+- 🤖  Learning & Development: TypeScript & Machine Learning ⚙️🛠
 - 🥅  My Goals for 2023: Becoming a Software Engineer 💯
 - ⚡ Fun facts: I love Cars and Cinematography 🔰 🎥
 
