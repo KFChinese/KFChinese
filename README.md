@@ -6,7 +6,7 @@
 
 ---
 
- ### I'm a Spring 23' Graduate in California State University, Monterey Bay and am open for opputonities to Become a Software Engineer in The Bay Area! 
+ ### I'm a Spring 23' Graduate in California State University, Monterey Bay and am open for Opportunities to Become a Software Engineer in The Bay Area! 
 
 ---
 
