@@ -48,11 +48,11 @@
 
 > 📦 184.8 kB Used in GitHub's Storage 
  > 
-> 🏆 103 Contributions in the Year 2023
+> 🏆 104 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 39 Public Repositories 
+> 📜 40 Public Repositories 
  > 
 > 🔑 60 Private Repositories 
  > 
@@ -83,8 +83,7 @@ Sunday                   242 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    7 mins              █████████████████████████   99.36 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Other                    7 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  7 mins              █████████████████████████   100.00 % 
@@ -110,7 +109,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KFChinese/KFChinese/master/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2023 07:12:40 UTC
+ Last Updated on 11/06/2023 07:13:18 UTC
 <!--END_SECTION:waka-->
 
 ---
