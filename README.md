@@ -83,16 +83,13 @@ Sunday                   245 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               1 hr 17 mins        ██████████████████████░░░   89.18 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -112,7 +109,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KFChinese/KFChinese/master/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2023 07:12:25 UTC
+ Last Updated on 21/08/2023 07:13:33 UTC
 <!--END_SECTION:waka-->
 
 ---
