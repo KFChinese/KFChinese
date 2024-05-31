@@ -48,8 +48,6 @@
 
 > 📦 340.4 kB Used in GitHub's Storage 
  > 
-> 🏆 50 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 42 Public Repositories 
@@ -109,7 +107,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KFChinese/KFChinese/master/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2024 07:15:35 UTC
+ Last Updated on 31/05/2024 07:14:24 UTC
 <!--END_SECTION:waka-->
 
 ---
