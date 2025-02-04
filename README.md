@@ -83,8 +83,7 @@ Sunday                   321 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    15 mins             █████████████████████████   99.09 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Other                    15 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  15 mins             █████████████████████████   100.00 % 
@@ -110,7 +109,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KFChinese/KFChinese/master/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2025 07:19:31 UTC
+ Last Updated on 04/02/2025 07:18:59 UTC
 <!--END_SECTION:waka-->
 
 ---
