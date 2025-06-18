@@ -48,6 +48,8 @@
 
 > 📦 346.2 kB Used in GitHub's Storage 
  > 
+> 🏆 26 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 44 Public Repositories 
@@ -81,14 +83,13 @@ Sunday                   331 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    31 mins             ██████████████████░░░░░░░   73.90 % 
-JSON                     11 mins             ███████░░░░░░░░░░░░░░░░░░   26.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -108,7 +109,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KFChinese/KFChinese/master/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2025 07:21:39 UTC
+ Last Updated on 18/06/2025 07:22:14 UTC
 <!--END_SECTION:waka-->
 
 ---
