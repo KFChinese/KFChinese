@@ -42,7 +42,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/KFChinese?theme=dark&font=Gluten&ext=activity)
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.11%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.11%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -109,7 +109,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KFChinese/KFChinese/master/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2026 07:30:44 UTC
+ Last Updated on 06/01/2026 07:28:00 UTC
 <!--END_SECTION:waka-->
 
 ---
