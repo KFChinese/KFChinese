@@ -83,8 +83,7 @@ Sunday                   360 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-CSV                      2 mins              ████████████████████████░   94.12 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+CSV                      2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 Cursor                   2 mins              █████████████████████████   100.00 % 
@@ -110,7 +109,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KFChinese/KFChinese/master/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2026 09:24:01 UTC
+ Last Updated on 07/05/2026 09:34:05 UTC
 <!--END_SECTION:waka-->
 
 ---
