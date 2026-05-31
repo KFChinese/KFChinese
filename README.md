@@ -83,7 +83,8 @@ Sunday                   362 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-PowerShell               0 secs              █████████████████████████   100.00 % 
+PowerShell               0 secs              ███████████████████░░░░░░   75.00 % 
+Other                    0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 
 🔥 Editors: 
 Cursor                   0 secs              █████████████████████████   100.00 % 
@@ -109,7 +110,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KFChinese/KFChinese/master/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2026 09:17:58 UTC
+ Last Updated on 31/05/2026 09:48:44 UTC
 <!--END_SECTION:waka-->
 
 ---
