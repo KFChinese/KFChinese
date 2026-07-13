@@ -42,13 +42,13 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/KFChinese?theme=dark&font=Gluten&ext=activity)
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.18%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.19%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 352.4 kB Used in GitHub's Storage 
+> 📦 352.5 kB Used in GitHub's Storage 
  > 
-> 🏆 141 Contributions in the Year 2026
+> 🏆 142 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -59,21 +59,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                445 commits         ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-🌆 Daytime                505 commits         ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-🌃 Evening                634 commits         ████████░░░░░░░░░░░░░░░░░   31.54 % 
-🌙 Night                  426 commits         █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+🌞 Morning                446 commits         ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+🌆 Daytime                505 commits         ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
+🌃 Evening                634 commits         ████████░░░░░░░░░░░░░░░░░   31.53 % 
+🌙 Night                  426 commits         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   380 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Monday                   380 commits         █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
 Tuesday                  304 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Wednesday                259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Wednesday                259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
 Thursday                 199 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
 Friday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Saturday                 279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Sunday                   366 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Saturday                 279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Sunday                   367 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
 ```
 
 
@@ -83,13 +83,14 @@ Sunday                   366 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     2 mins              ████████████████████████░   96.67 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -109,7 +110,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KFChinese/KFChinese/master/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2026 09:04:40 UTC
+ Last Updated on 13/07/2026 10:27:42 UTC
 <!--END_SECTION:waka-->
 
 ---
