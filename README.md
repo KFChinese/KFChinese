@@ -46,9 +46,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 352.8 kB Used in GitHub's Storage 
+> 📦 352.9 kB Used in GitHub's Storage 
  > 
-> 🏆 152 Contributions in the Year 2026
+> 🏆 153 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -56,42 +56,6 @@
  > 
 > 🔑 72 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                456 commits         ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-🌆 Daytime                505 commits         ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
-🌃 Evening                634 commits         ████████░░░░░░░░░░░░░░░░░   31.37 % 
-🌙 Night                  426 commits         █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   382 commits         █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Tuesday                  306 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Wednesday                261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Thursday                 200 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Friday                   224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Saturday                 280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Sunday                   368 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-JSON                     5 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -109,7 +73,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KFChinese/KFChinese/master/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 09:25:45 UTC
+ Last Updated on 24/07/2026 09:23:13 UTC
 <!--END_SECTION:waka-->
 
 ---
