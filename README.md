@@ -48,7 +48,7 @@
 
 > 📦 352.9 kB Used in GitHub's Storage 
  > 
-> 🏆 153 Contributions in the Year 2026
+> 🏆 154 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -56,6 +56,44 @@
  > 
 > 🔑 72 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                458 commits         ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+🌆 Daytime                505 commits         ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+🌃 Evening                634 commits         ████████░░░░░░░░░░░░░░░░░   31.34 % 
+🌙 Night                  426 commits         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   382 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Tuesday                  306 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Wednesday                261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Thursday                 201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Friday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Saturday                 280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Sunday                   368 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+Text                     41 mins             ██████████████████████░░░   88.35 % 
+JSON                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+
+🔥 Editors: 
+Cursor                   41 mins             ██████████████████████░░░   88.35 % 
+VS Code                  5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+
+💻 Operating System: 
+Mac                      46 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -73,7 +111,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KFChinese/KFChinese/master/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 09:23:13 UTC
+ Last Updated on 25/07/2026 09:01:48 UTC
 <!--END_SECTION:waka-->
 
 ---
