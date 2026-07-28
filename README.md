@@ -46,9 +46,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 352.9 kB Used in GitHub's Storage 
+> 📦 352.3 kB Used in GitHub's Storage 
  > 
-> 🏆 156 Contributions in the Year 2026
+> 🏆 157 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -56,44 +56,6 @@
  > 
 > 🔑 72 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                460 commits         ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
-🌆 Daytime                505 commits         ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
-🌃 Evening                634 commits         ████████░░░░░░░░░░░░░░░░░   31.31 % 
-🌙 Night                  426 commits         █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   382 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-Tuesday                  306 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Wednesday                261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Thursday                 201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Friday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Saturday                 281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Sunday                   369 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-Text                     41 mins             ██████████████████████░░░   88.35 % 
-JSON                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-
-🔥 Editors: 
-Cursor                   41 mins             ██████████████████████░░░   88.35 % 
-VS Code                  5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-
-💻 Operating System: 
-Mac                      46 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -111,7 +73,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KFChinese/KFChinese/master/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 10:44:17 UTC
+ Last Updated on 28/07/2026 09:38:28 UTC
 <!--END_SECTION:waka-->
 
 ---
