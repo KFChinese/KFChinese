@@ -42,13 +42,15 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/KFChinese?theme=dark&font=Gluten&ext=activity)
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2034%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.19%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 352.3 kB Used in GitHub's Storage 
  > 
-> 🏆 157 Contributions in the Year 2026
+> 🏆 158 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -56,6 +58,64 @@
  > 
 > 🔑 72 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                462 commits         ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+🌆 Daytime                505 commits         ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+🌃 Evening                634 commits         ████████░░░░░░░░░░░░░░░░░   31.28 % 
+🌙 Night                  426 commits         █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   383 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Tuesday                  307 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Wednesday                261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Thursday                 201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Friday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Saturday                 281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Sunday                   369 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+Text                     41 mins             ██████████████████████░░░   88.35 % 
+JSON                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+
+🔥 Editors: 
+Cursor                   41 mins             ██████████████████████░░░   88.35 % 
+VS Code                  5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+
+💻 Operating System: 
+Mac                      46 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 38 mins (82.15%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 11 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 83 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -73,7 +133,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KFChinese/KFChinese/master/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 09:38:28 UTC
+ Last Updated on 29/07/2026 09:38:42 UTC
 <!--END_SECTION:waka-->
 
 ---
