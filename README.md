@@ -48,7 +48,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 352.5 kB Used in GitHub's Storage 
+> 📦 352.6 kB Used in GitHub's Storage 
  > 
 > 🏆 164 Contributions in the Year 2026
  > 
@@ -85,13 +85,14 @@ Sunday                   370 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     2 mins              █████████████████████████   99.77 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -117,7 +118,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KFChinese/KFChinese/master/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 09:38:39 UTC
+ Last Updated on 06/08/2026 09:41:12 UTC
 <!--END_SECTION:waka-->
 
 ---
